@@ -4,4 +4,5 @@ These implmentations were made with the sole intention to learn and to develop t
 They are done with various reference sources1
 
 1) Resnet and Seresnet   
+   Used them for Knowledge distillation straegies
    Ref.  -  paper and official implementation from Pytorchvision
